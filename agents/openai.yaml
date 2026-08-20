@@ -1,0 +1,4 @@
+interface:
+  display_name: "abaqus-skill"
+  short_description: "Edit and validate coupled Abaqus CAE models"
+  default_prompt: "Use $abaqus-skill to update or diagnose this Abaqus model and deliver evidence-backed validation."
